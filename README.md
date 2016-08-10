@@ -8,6 +8,7 @@ If you haven't seen video #46 which describes the transmitter part (and before t
 Links to those videos: 
 
 Transmitter - https://www.youtube.com/watch?v=LMrIz1kM0Jg
+
 Discussions - https://www.youtube.com/watch?v=aHSHewsvTsA 
 
 All code (sketches, links) for this part of the project can be found in this GitHub repository so just hit the DOWNLOAD button to get a zipped up package for you to unzip on your desktop and explore. Remember that sketches should be placed in a folder of the same name and libraries (if any are included here) go in the libraries folder within the Arduino IDE sketch folders.
